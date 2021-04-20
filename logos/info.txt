@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: officecodeprod-regular
+font link: https://github.com/nathco/Office-Code-Pro
+font author: Nathan Rutzky
+font author site: https://nath.co/
+Slogan Font: Fanwood Text.otf
+
+icon designer: DPIcons
+icon designer link: /DPIcons
+        
+{"bg":"#EBE9F5","icon-gradient-0":"#6566CE","icon-gradient-1":"#DBC1D0","font":"#2E2B3C","slogan":"#423f50"}
+      
