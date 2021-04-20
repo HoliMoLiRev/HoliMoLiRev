@@ -1,4 +1,6 @@
-### HoliMoLiRev
+![HoliMoLiRev Logo](https://raw.githubusercontent.com/HoliMoLiRev/HoliMoLiRev/main/logos/cover.png)
+
+# HoliMoLiRev
 
 **Status: Currently being prepared.**
 
