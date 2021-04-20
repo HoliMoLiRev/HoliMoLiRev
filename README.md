@@ -1,6 +1,6 @@
 ### HoliMoLiRev
 
-**Currently being prepared.**
+**Status: Currently being prepared.**
 
 HoliMoLiRev is a tool that allows for **Ho**listic **Mo**difiable **Li**terature **Rev**iewing and aims to support researchers in creating Systematic Literature Reviews.
 
