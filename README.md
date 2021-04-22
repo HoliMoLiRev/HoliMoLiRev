@@ -4,7 +4,7 @@
 
 **Status: Currently being prepared.**
 
-HoliMoLiRev is a tool that allows for **Ho**listic **Mo**difiable **Li**terature **Rev**iewing and aims to support researchers in creating Systematic Literature Reviews.
+HoliMoLiRev is a framework that allows for **Ho**listic **Mo**difiable **Li**terature **Rev**iewing and aims to enable researchers to efficiently leverage Machine Learning and Text Analytics in their  Systematic Literature Reviews.
 
 ## Selected Results from Analyzing Digital Twin Literature with HoliMoLiRev
 
